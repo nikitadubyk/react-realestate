@@ -1,5 +1,5 @@
 {
-    "top-ads": [
+    "apartaments": [
         {
             "id": 1,
             "title": "Продается 4-х комнатная квартира",
@@ -8,14 +8,16 @@
             "squere": 110,
             "rooms": 4,
             "bathrooms": 2,
-            "place": "Горловка, Победы 72",
+            "city": "Горловка",
+            "homeAdress": "Победы 72",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2021/12/double-height-living-room.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/12/luxury-living-room.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/12/freeform-rug.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/12/round-coffee-tables.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 2,
@@ -25,14 +27,16 @@
             "squere": 95,
             "rooms": 3,
             "bathrooms": 1,
-            "place": "Донецк, Лермонтова 12",
+            "city": "Донецк",
+            "homeAdress": "Лермонтова 12",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/Luxe-living-room.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/gold-coffee-table.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-table-4.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/tufted-sofas.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 3,
@@ -42,7 +46,8 @@
             "squere": 57,
             "rooms": 2,
             "bathrooms": 1,
-            "place": "Донецк, Артема 56",
+            "city": "Донецк",
+            "homeAdress": "Артема 56",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-tables.1.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/white-sofa.jpg",
@@ -50,7 +55,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/dining-room-chandelier.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/marble-kitchen-island-2.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 4,
@@ -60,14 +66,16 @@
             "squere": 154,
             "rooms": 4,
             "bathrooms": 2,
-            "place": "Макеевка, Калинина 98",
+            "city": "Макеевка",
+            "homeAdress": "Калинина 98",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-rug-5.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-chairs.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/nesting-coffee-tables.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/lounge-chair.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 5,
@@ -77,14 +85,16 @@
             "squere": 30,
             "rooms": 1,
             "bathrooms": 1,
-            "place": "Макеевка, Горького 105",
+            "city": "Макеевка",
+            "homeAdress": "Горького 105",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-floor-lamps.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/modern-lounge-chaira.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-tables-2.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/large-area-rug-3.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 6,
@@ -94,13 +104,15 @@
             "squere": 33,
             "rooms": 1,
             "bathrooms": 1,
-            "place": "Горловка, Жукова 44",
+            "city": "Горловка",
+            "homeAdress": "Жукова 44",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/tiny-white-apartment.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 7,
@@ -110,13 +122,15 @@
             "squere": 143,
             "rooms": 5,
             "bathrooms": 2,
-            "place": "Макеевка, Петровского 190",
+            "city": "Макеевка",
+            "homeAdress": "Петровского 190",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2015/08/attic-living-room.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/08/white-washed-floors.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/08/plaid-sofa.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         },
         {
             "id": 8,
@@ -126,13 +140,15 @@
             "squere": 47,
             "rooms": 2,
             "bathrooms": 1,
-            "place": "Горловка, Ленина 71",
+            "city": "Горловка",
+            "homeAdress": "Ленина 71",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/tiny-white-apartment.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
             ],
-            "placeOnMap": 111
+            "placeOnMap": 111,
+            "topAds": true
         }
     ]
 }

@@ -11,7 +11,7 @@ import Spinner from '../spinner/Spinner.js';
 import './PremiumAds.scss';
 
 const PremiumAds = () => {
-    const { apartaments, apartamentLoadingStatus } = useSelector(
+    const { topAdsApartaments, apartamentLoadingStatus } = useSelector(
         state => state.premiumAdsSlice
     );
     const dispatch = useDispatch();
@@ -19,7 +19,7 @@ const PremiumAds = () => {
     function fetchData() {
         dispatch(apartamentsFetching());
         axios
-            .get('http://localhost:3001/top-ads')
+            .get('http://localhost:3001/apartaments')
             .then(res => dispatch(apartamentsFetched(res.data)))
             .catch(e => dispatch(apartamentsFetchingError()));
     }
@@ -45,7 +45,7 @@ const PremiumAds = () => {
                 {apartamentLoadingStatus === 'loading' ? (
                     <Spinner />
                 ) : (
-                    renderApartaments(apartaments)
+                    renderApartaments(topAdsApartaments)
                 )}
             </div>
         </div>

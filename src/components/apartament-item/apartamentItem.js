@@ -1,12 +1,14 @@
 import styles from './ApartamentItem.module.scss';
 
 const ApartamentItem = ({
+    id,
     img,
     price,
     rooms,
     bathrooms,
     squere,
-    place,
+    city,
+    homeAdress,
     title,
 }) => {
     return (
@@ -16,7 +18,9 @@ const ApartamentItem = ({
             <p className={styles.premium__descr}>
                 {squere} м2 | {rooms} комнаты | {bathrooms} ванны
             </p>
-            <p className={styles.premium__adress}>{place}</p>
+            <p className={styles.premium__adress}>
+                {city}, {homeAdress}
+            </p>
             <button className={styles.premium__button}>Подробней</button>
         </div>
     );
