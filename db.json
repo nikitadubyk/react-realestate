@@ -1,0 +1,138 @@
+{
+    "top-ads": [
+        {
+            "id": 1,
+            "title": "Продается 4-х комнатная квартира",
+            "img": "/img/apartaments/1.jpg",
+            "price": 1500000,
+            "squere": 110,
+            "rooms": 4,
+            "bathrooms": 2,
+            "place": "Горловка, Победы 72",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/double-height-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/luxury-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/freeform-rug.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/round-coffee-tables.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 2,
+            "title": "Продается 3-х комнатная квартира",
+            "img": "/img/apartaments/2.jpg",
+            "price": 650000,
+            "squere": 95,
+            "rooms": 3,
+            "bathrooms": 1,
+            "place": "Донецк, Лермонтова 12",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/Luxe-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/gold-coffee-table.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-table-4.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/tufted-sofas.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 3,
+            "title": "Продается 2-х комнатная квартира",
+            "img": "/img/apartaments/3.jpg",
+            "price": 890000,
+            "squere": 57,
+            "rooms": 2,
+            "bathrooms": 1,
+            "place": "Донецк, Артема 56",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-tables.1.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/white-sofa.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/white-living-room-chair.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/dining-room-chandelier.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/marble-kitchen-island-2.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 4,
+            "title": "Продается 4-х комнатная квартира",
+            "img": "/img/apartaments/4.jpg",
+            "price": 890000,
+            "squere": 154,
+            "rooms": 4,
+            "bathrooms": 2,
+            "place": "Макеевка, Калинина 98",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-rug-5.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-chairs.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/nesting-coffee-tables.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/lounge-chair.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 5,
+            "title": "Продается однокомнатная квартира",
+            "img": "/img/apartaments/5.jpg",
+            "price": 240000,
+            "squere": 30,
+            "rooms": 1,
+            "bathrooms": 1,
+            "place": "Макеевка, Горького 105",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-floor-lamps.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/modern-lounge-chaira.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-tables-2.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/large-area-rug-3.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 6,
+            "title": "Продается однокомнатная квартира",
+            "img": "/img/apartaments/6.jpg",
+            "price": 320000,
+            "squere": 33,
+            "rooms": 1,
+            "bathrooms": 1,
+            "place": "Горловка, Жукова 44",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/tiny-white-apartment.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 7,
+            "title": "Продается 5-ти комнатная квартира",
+            "img": "/img/apartaments/7.jpg",
+            "price": 1200000,
+            "squere": 143,
+            "rooms": 5,
+            "bathrooms": 2,
+            "place": "Макеевка, Петровского 190",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/attic-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/white-washed-floors.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/plaid-sofa.jpg"
+            ],
+            "placeOnMap": 111
+        },
+        {
+            "id": 8,
+            "title": "Продается 2-х комнатная квартира",
+            "img": "/img/apartaments/8.jpg",
+            "price": 660000,
+            "squere": 47,
+            "rooms": 2,
+            "bathrooms": 1,
+            "place": "Горловка, Ленина 71",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/tiny-white-apartment.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
+            ],
+            "placeOnMap": 111
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+.city__item {
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s all;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    &:hover {
+        transform: translateY(-3px);
+    }
+    p {
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 21px;
+        color: #ffffff;
+        -webkit-text-stroke: 1px #000;
+        text-align: center;
+    }
+}

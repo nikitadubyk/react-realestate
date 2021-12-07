@@ -1,0 +1,15 @@
+.city {
+    &__title {
+        text-align: center;
+    }
+    &__subtitle {
+        font-weight: normal;
+        text-align: center;
+    }
+    &__wrapper {
+        display: flex;
+        justify-content: space-between;
+        width: 800px;
+        margin: 40px auto;
+    }
+}
