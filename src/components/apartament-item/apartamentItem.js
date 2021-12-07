@@ -1,4 +1,4 @@
-import styles from './apartamentItem.module.scss';
+import styles from './ApartamentItem.module.scss';
 
 const ApartamentItem = ({
     img,

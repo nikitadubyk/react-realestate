@@ -1,4 +1,4 @@
-import './cityItem.scss';
+import './CityItem.scss';
 
 const CityItem = ({ city, img }) => {
     return (

@@ -1,5 +1,5 @@
-import CityItem from '../city-item/cityItem';
-import './citySelection.scss';
+import CityItem from '../city-item/CityItem';
+import './CitySelection.scss';
 
 const CitySelection = () => {
     return (

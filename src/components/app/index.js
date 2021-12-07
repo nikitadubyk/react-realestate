@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../header/header';
-import CitySelection from '../city-selection/citySelection';
-import PremiumAds from '../premium-ads/premiumAds';
+import Header from '../header/Header';
+import CitySelection from '../city-selection/CitySelection';
+import PremiumAds from '../premium-ads/PremiumAds';
 import './App.css';
 
 function App() {
