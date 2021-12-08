@@ -1,7 +1,16 @@
+import { Link } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
+import { changeCityName } from '../city-apartament/cityApartamentSlice';
 import CityItem from '../city-item/CityItem';
 import './CitySelection.scss';
 
 const CitySelection = () => {
+    const dispatch = useDispatch();
+
+    const cityCity = city => {
+        dispatch(changeCityName(city));
+    };
+
     return (
         <div>
             <h1 className='city__title'>
@@ -12,9 +21,30 @@ const CitySelection = () => {
                 клика!
             </h2>
             <div className='city__wrapper'>
-                <CityItem city='Горловка' img='/img/city/gorlovka.jpg' />
-                <CityItem city='Донецк' img='/img/city/donetsk.jpg' />
-                <CityItem city='Макеевка' img='/img/city/makeevka.jpg' />
+                <Link
+                    to='/gorlovka'
+                    exact
+                    onClick={() => cityCity('Горловка')}
+                    style={{ textDecoration: 'none' }}
+                >
+                    <CityItem city='Горловка' img='/img/city/gorlovka.jpg' />
+                </Link>
+                <Link
+                    to='/donetsk'
+                    exact
+                    onClick={() => cityCity('Донецк')}
+                    style={{ textDecoration: 'none' }}
+                >
+                    <CityItem city='Донецк' img='/img/city/donetsk.jpg' />
+                </Link>
+                <Link
+                    to='/makeevka'
+                    exact
+                    onClick={() => cityCity('Макеевка')}
+                    style={{ textDecoration: 'none' }}
+                >
+                    <CityItem city='Макеевка' img='/img/city/makeevka.jpg' />
+                </Link>
             </div>
         </div>
     );

@@ -1,6 +1,7 @@
 .city__item {
     width: 200px;
     height: 250px;
+    padding: 10px;
     border-radius: 20px;
     cursor: pointer;
     transition: 0.5s all;
@@ -11,6 +12,7 @@
         transform: translateY(-3px);
     }
     p {
+        text-decoration: none;
         font-weight: bold;
         font-size: 30px;
         line-height: 21px;
