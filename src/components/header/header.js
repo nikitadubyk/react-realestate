@@ -1,14 +1,25 @@
+import { Link } from 'react-router-dom';
 import './Header.scss';
 
 const Header = () => {
     return (
         <div className='header'>
-            <div className='header__title'>Недвижимость</div>
+            <Link exact to='/' className='header__title'>
+                Недвижимость
+            </Link>
             <ul className='header__list'>
-                <li>Горловка</li>
-                <li>Донецк</li>
-                <li>Макеевка</li>
-                <li>О нас</li>
+                <Link exact to='/gorlovka' className='header__list-item'>
+                    Горловка
+                </Link>
+                <Link exact to='/donetsk' className='header__list-item'>
+                    Донецк
+                </Link>
+                <Link exact to='/makeevka' className='header__list-item'>
+                    Макеевка
+                </Link>
+                <Link exact to='/about-us' className='header__list-item'>
+                    О нас
+                </Link>
             </ul>
         </div>
     );

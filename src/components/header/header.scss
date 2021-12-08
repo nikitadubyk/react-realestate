@@ -9,6 +9,11 @@
     &__title {
         font-size: 24px;
         line-height: 21px;
+        color: #fff;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
     }
     &__list {
         list-style: none;
@@ -20,6 +25,19 @@
             transition: 0.5s all;
             &:hover {
                 transform: translateY(-3px);
+            }
+        }
+        &-item {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+            cursor: pointer;
+            transition: 0.5s all;
+            &:hover {
+                transform: translateY(-3px);
+            }
+            &_selected {
+                text-decoration: underline;
             }
         }
     }
