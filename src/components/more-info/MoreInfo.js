@@ -22,7 +22,6 @@ const MoreInfo = () => {
                     enabled: true,
                 }}
                 loop={true}
-                autoHeight={true}
                 centeredSlides={true}
                 spaceBetween={20}
             >
