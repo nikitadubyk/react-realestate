@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomePage from '../../pages/HomePage';
 import ApartamentByCityPage from '../../pages/ApartamentByCityPage';
+import ApartamentInfoPage from '../../pages/ApartamentInfoPage';
 import './App.css';
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
                     path='/makeevka'
                     element={<ApartamentByCityPage />}
                 />
+                <Route exact path='/info' element={<ApartamentInfoPage />} />
             </Routes>
         </BrowserRouter>
     );
