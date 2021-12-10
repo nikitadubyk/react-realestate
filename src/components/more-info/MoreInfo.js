@@ -4,6 +4,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
 import 'swiper/swiper.min.css';
 
+import { YMaps, Map, Placemark } from 'react-yandex-maps';
+
 // install Swiper modules
 SwiperCore.use([Navigation, Pagination, Keyboard]);
 
@@ -76,6 +78,19 @@ const MoreInfo = () => {
                 fringilla. Vestibulum cursus sem quis turpis suscipit mollis.
                 Nullam sed sem eget arcu auctor viverra ac sit amet ante.
             </p>
+            <div>
+                <YMaps>
+                    <Map
+                        className='map__wrapper'
+                        defaultState={{
+                            center: [55.684758, 37.738521],
+                            zoom: 12,
+                        }}
+                    >
+                        <Placemark geometry={[55.684758, 37.738521]} />
+                    </Map>
+                </YMaps>
+            </div>
         </div>
     );
 };
