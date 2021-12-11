@@ -18,6 +18,7 @@ const MoreInfo = () => {
     const renderInfo = arr => {
         const {
             title,
+            description,
             price,
             squere,
             rooms,
@@ -32,7 +33,8 @@ const MoreInfo = () => {
             <div className='info'>
                 <h5 className='info__title'>{title}</h5>
                 <h5 className='info__subtitle'>
-                    {squere} м2 | {rooms} комнаты | {bathrooms} ванны
+                    {squere} кв.м | {rooms} комнаты | {bathrooms}{' '}
+                    {bathrooms === 1 ? 'ванная' : 'ванны'}
                 </h5>
                 <Swiper
                     navigation={true}
@@ -58,30 +60,7 @@ const MoreInfo = () => {
                     </div>
                     <div className='info__price'>{price} руб</div>
                 </div>
-                <p className='info__descr'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Vivamus iaculis nisi id scelerisque sollicitudin. Maecenas
-                    congue sodales justo, id facilisis mauris imperdiet ut.
-                    Donec accumsan facilisis enim, nec molestie turpis rhoncus
-                    a. Vivamus a felis in enim tempor congue id id nunc. Nulla
-                    in lacus blandit, scelerisque nunc nec, porttitor velit.
-                    Class aptent taciti sociosqu ad litora torquent per conubia
-                    nostra, per inceptos himenaeos. Nunc in faucibus lorem.
-                    Integer elit nulla, consectetur sit amet dui ut, sodales
-                    rutrum nisl. Ut a erat eget justo placerat lacinia. Interdum
-                    et malesuada fames ac ante ipsum primis in faucibus.
-                    Pellentesque dapibus risus et malesuada accumsan. Quisque
-                    elit nunc, egestas vel pharetra eget, dictum a nibh. Donec
-                    id risus tortor. Morbi vestibulum in mi eget pharetra.
-                    Pellentesque habitant morbi tristique senectus et netus et
-                    malesuada fames ac turpis egestas. Quisque mattis eleifend
-                    venenatis. Cras vehicula bibendum pretium. Phasellus ac nisl
-                    elit. Phasellus a viverra mi. Nulla facilisis elit ultrices
-                    varius placerat. Morbi imperdiet massa dictum orci facilisis
-                    fringilla. Vestibulum cursus sem quis turpis suscipit
-                    mollis. Nullam sed sem eget arcu auctor viverra ac sit amet
-                    ante.
-                </p>
+                <p className='info__descr'>{description}</p>
                 <div>
                     <YMaps>
                         <Map

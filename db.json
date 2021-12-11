@@ -3,6 +3,7 @@
         {
             "id": 1,
             "title": "Продается 4-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/1.jpg",
             "price": 1500000,
             "squere": 110,
@@ -23,6 +24,7 @@
         {
             "id": 2,
             "title": "Продается 3-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/2.jpg",
             "price": 650000,
             "squere": 95,
@@ -43,6 +45,7 @@
         {
             "id": 3,
             "title": "Продается 2-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/3.jpg",
             "price": 890000,
             "squere": 57,
@@ -64,6 +67,7 @@
         {
             "id": 4,
             "title": "Продается 4-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/4.jpg",
             "price": 890000,
             "squere": 154,
@@ -84,6 +88,7 @@
         {
             "id": 5,
             "title": "Продается однокомнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/5.jpg",
             "price": 240000,
             "squere": 30,
@@ -104,6 +109,7 @@
         {
             "id": 6,
             "title": "Продается однокомнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/6.jpg",
             "price": 320000,
             "squere": 33,
@@ -123,6 +129,7 @@
         {
             "id": 7,
             "title": "Продается 5-ти комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/7.jpg",
             "price": 1200000,
             "squere": 143,
@@ -137,11 +144,12 @@
             ],
             "placeOnMap1": 47.999614,
             "placeOnMap2": 38.036286,
-            "topAds": true
+            "topAds": false
         },
         {
             "id": 8,
             "title": "Продается 2-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
             "img": "/img/apartaments/8.jpg",
             "price": 660000,
             "squere": 47,
@@ -157,6 +165,216 @@
             "placeOnMap1": 48.310802,
             "placeOnMap2": 38.002842,
             "topAds": true
+        },
+        {
+            "id": 9,
+            "title": "Продается 4-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "/img/apartaments/2.jpg",
+            "price": 1790000,
+            "squere": 117,
+            "rooms": 4,
+            "bathrooms": 2,
+            "city": "Горловка",
+            "homeAdress": "Рудакова 78",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/tiny-white-apartment.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
+            ],
+            "placeOnMap1": 48.307266,
+            "placeOnMap2": 37.996787,
+            "topAds": false
+        },
+        {
+            "id": 10,
+            "title": "Продается 3-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "/img/apartaments/1.jpg",
+            "price": 899000,
+            "squere": 83.5,
+            "rooms": 4,
+            "bathrooms": 1,
+            "city": "Горловка",
+            "homeAdress": "Победы 49",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/attic-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/white-washed-floors.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/plaid-sofa.jpg"
+            ],
+            "placeOnMap1": 48.30361,
+            "placeOnMap2": 38.012014,
+            "topAds": false
+        },
+        {
+            "id": 11,
+            "title": "Продается 4-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "/img/apartaments/5.jpg",
+            "price": 1000000,
+            "squere": 105,
+            "rooms": 4,
+            "bathrooms": 2,
+            "city": "Горловка",
+            "homeAdress": "Гагарина 31",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/attic-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/white-washed-floors.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2015/08/plaid-sofa.jpg"
+            ],
+            "placeOnMap1": 48.305768,
+            "placeOnMap2": 38.020125,
+            "topAds": false
+        },
+        {
+            "id": 12,
+            "title": "Продается 2-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "/img/apartaments/8.jpg",
+            "price": 750000,
+            "squere": 61,
+            "rooms": 2,
+            "bathrooms": 1,
+            "city": "Горловка",
+            "homeAdress": "Пушкинская 32",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/living-room-floor-lamps.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/modern-lounge-chaira.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-tables-2.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/11/large-area-rug-3.jpg"
+            ],
+            "placeOnMap1": 48.299835,
+            "placeOnMap2": 38.018122,
+            "topAds": false
+        },
+        {
+            "id": 13,
+            "title": "Продается 2-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "/img/apartaments/6.jpg",
+            "price": 845000,
+            "squere": 66,
+            "rooms": 2,
+            "bathrooms": 1,
+            "city": "Горловка",
+            "homeAdress": "Нестерова 101",
+            "images": [
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/double-height-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/luxury-living-room.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/freeform-rug.jpg",
+                "http://cdn.home-designing.com/wp-content/uploads/2021/12/round-coffee-tables.jpg"
+            ],
+            "placeOnMap1": 48.29429,
+            "placeOnMap2": 38.008717,
+            "topAds": false
+        },
+        {
+            "id": 14,
+            "title": "Продается 5-ти комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "https://polyakova.biz/content/portfolio/296/previewhead-296.jpg",
+            "price": 1639000,
+            "squere": 134,
+            "rooms": 5,
+            "bathrooms": 2,
+            "city": "Донецк",
+            "homeAdress": "Мира 6",
+            "images": [
+                "https://polyakova.biz/content/portfolio/296/previewhead-296.jpg",
+                "https://polyakova.biz/content/portfolio/296/polyakova-s3-liv-01-03_5169.jpg",
+                "https://polyakova.biz/content/portfolio/296/polyakova-s3-liv-02-03_5170.jpg",
+                "https://polyakova.biz/content/portfolio/296/polyakova-s3-liv-05-03_5173.jpg",
+                "https://polyakova.biz/content/portfolio/296/polyakova-s3-liv-06-02_5174.jpg",
+                "https://polyakova.biz/content/portfolio/296/polyakova-s3-bed-01-03_5175.jpg"
+            ],
+            "placeOnMap1": 48.017535,
+            "placeOnMap2": 37.80029,
+            "topAds": true
+        },
+        {
+            "id": 15,
+            "title": "Продается 2-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "https://polyakova.biz/content/portfolio/171/previewhead-171.jpg",
+            "price": 1639000,
+            "squere": 56,
+            "rooms": 2,
+            "bathrooms": 1,
+            "city": "Донецк",
+            "homeAdress": "Аретам 68",
+            "images": [
+                "https://polyakova.biz/content/portfolio/171/previewhead-171.jpg",
+                "https://polyakova.biz/content/portfolio/171/polyakova-vinnitza-liv-01-02_3558.jpg",
+                "https://polyakova.biz/content/portfolio/171/polyakova-vinnitza-liv-03-02_3559.jpg",
+                "https://polyakova.biz/content/portfolio/171/polyakova-vinnitza-liv-04-02_3560.jpg",
+                "https://polyakova.biz/content/portfolio/171/polyakova-vinnitza-bed-02-08_3569.jpg"
+            ],
+            "placeOnMap1": 47.99842,
+            "placeOnMap2": 37.804206,
+            "topAds": false
+        },
+        {
+            "id": 16,
+            "title": "Продается 2-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "https://polyakova.biz/content/portfolio/314/previewhead-314.jpg",
+            "price": 900000,
+            "squere": 52,
+            "rooms": 2,
+            "bathrooms": 1,
+            "city": "Донецк",
+            "homeAdress": "Ильича 7",
+            "images": [
+                "https://polyakova.biz/content/portfolio/314/polyakova-irpen-liv-06-03_5676.jpg",
+                "https://polyakova.biz/content/portfolio/314/polyakova-irpen-liv-04-03_5677.jpg",
+                "https://polyakova.biz/content/portfolio/314/polyakova-irpen-liv-01-03_5678.jpg",
+                "https://polyakova.biz/content/portfolio/314/polyakova-irpen-liv-05-03_5679.jpg"
+            ],
+            "placeOnMap1": 48.001585,
+            "placeOnMap2": 37.808698,
+            "topAds": false
+        },
+        {
+            "id": 17,
+            "title": "Продается 3-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "https://polyakova.biz/content/portfolio/221/previewhead-221.jpg",
+            "price": 890000,
+            "squere": 68,
+            "rooms": 3,
+            "bathrooms": 1,
+            "city": "Донецк",
+            "homeAdress": "Гурова 13",
+            "images": [
+                "https://polyakova.biz/content/portfolio/221/polyakova-ft4-liv-01-04-1_4367.jpg",
+                "https://polyakova.biz/content/portfolio/221/polyakova-ft4-liv-02-03-3_4368.jpg",
+                "https://polyakova.biz/content/portfolio/221/polyakova-ft4-liv-03-03-1_4369.jpg",
+                "https://polyakova.biz/content/portfolio/221/polyakova-ft4-liv-04-03-1_4370.jpg"
+            ],
+            "placeOnMap1": 48.003852,
+            "placeOnMap2": 37.799876,
+            "topAds": false
+        },
+        {
+            "id": 18,
+            "title": "Продается 4-х комнатная квартира",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis interdum ligula. Aliquam elementum vulputate sapien, vitae suscipit ipsum pulvinar quis. Suspendisse potenti. Mauris vitae sagittis ex. Aenean in eleifend nisi, eu euismod enim. Morbi vitae eleifend est. Cras non est eget lectus luctus condimentum. Nam vel sem ut lorem posuere consectetur. Proin lobortis, dui ac consequat porttitor, purus justo auctor eros, sed hendrerit est lectus eget velit. Nunc in quam vestibulum, placerat tortor nec, venenatis urna. Vivamus tristique viverra bibendum. Donec sed bibendum neque, et semper est. Maecenas a ligula vitae metus varius faucibus non non elit. Vivamus lobortis lacus a dapibus bibendum. Suspendisse sagittis felis tempor elit commodo aliquam. Suspendisse facilisis mauris sit amet purus tristique ultrices.",
+            "img": "https://polyakova.biz/content/portfolio/170/previewhead-170.jpg",
+            "price": 1690000,
+            "squere": 108,
+            "rooms": 4,
+            "bathrooms": 2,
+            "city": "Донецк",
+            "homeAdress": "Ватунина 20",
+            "images": [
+                "https://polyakova.biz/content/portfolio/170/polyakova-respublika-liv-07-03_3416.jpg",
+                "https://polyakova.biz/content/portfolio/170/polyakova-respublika-liv-08-03_3417.jpg",
+                "https://polyakova.biz/content/portfolio/170/polyakova-respublika-liv-09-03_3418.jpg",
+                "https://polyakova.biz/content/portfolio/170/polyakova-respublika-liv-10-03_3419.jpg"
+            ],
+            "placeOnMap1": 48.014678,
+            "placeOnMap2": 37.797406,
+            "topAds": false
         }
     ]
 }

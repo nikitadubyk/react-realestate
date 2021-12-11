@@ -8,7 +8,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    &:hover {
+    &:hover,
+    &:focus {
         transform: translateY(-3px);
     }
     p {

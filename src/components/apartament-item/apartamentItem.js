@@ -18,7 +18,8 @@ const ApartamentItem = ({
             <img src={img} alt={title} className={styles.premium__img} />
             <p className={styles.premium__price}>{price} руб</p>
             <p className={styles.premium__descr}>
-                {squere} м2 | {rooms} комнаты | {bathrooms} ванны
+                {squere} кв.м | {rooms} комнаты | {bathrooms}{' '}
+                {bathrooms === 1 ? 'ванная' : 'ванны'}
             </p>
             <p className={styles.premium__adress}>
                 {city}, {homeAdress}
