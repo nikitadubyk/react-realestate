@@ -6,10 +6,14 @@
         width: 200px;
         min-height: 270px;
         margin: 30px;
+    }
+    &__img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
         img {
             width: 100%;
-            height: 150px;
-            object-fit: cover;
+            height: 100%;
         }
     }
     &__price {
@@ -26,6 +30,9 @@
         margin-top: 10px;
     }
     &__button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
         padding: 5px 10px;
         width: 100px;
         height: 30px;
@@ -39,5 +46,14 @@
         &:hover {
             background-color: #5999f8;
         }
+    }
+    &__ads {
+        width: 30px;
+        height: 30px;
+    }
+    &__wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 }

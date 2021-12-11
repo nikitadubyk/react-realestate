@@ -11,10 +11,11 @@ const ApartamentItem = ({
     city,
     homeAdress,
     title,
+    topAds,
 }) => {
     return (
         <div className={styles.premium__item}>
-            <img src={img} alt={title} />
+            <img src={img} alt={title} className={styles.premium__img} />
             <p className={styles.premium__price}>{price} руб</p>
             <p className={styles.premium__descr}>
                 {squere} м2 | {rooms} комнаты | {bathrooms} ванны
@@ -22,9 +23,21 @@ const ApartamentItem = ({
             <p className={styles.premium__adress}>
                 {city}, {homeAdress}
             </p>
-            <Link to={`/apartament/${id}`} className={styles.premium__button}>
-                Подробней
-            </Link>
+            <div className={styles.premium__wrapper}>
+                <Link
+                    to={`/apartament/${id}`}
+                    className={styles.premium__button}
+                >
+                    Подробней
+                </Link>
+                {topAds && (
+                    <img
+                        src='/img/star_icon.svg'
+                        alt='star'
+                        className={styles.premium__ads}
+                    />
+                )}
+            </div>
         </div>
     );
 };

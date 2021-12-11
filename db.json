@@ -36,7 +36,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-table-4.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/tufted-sofas.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 47.953525,
+            "placeOnMap2": 37.747199,
             "topAds": true
         },
         {
@@ -56,7 +57,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/dining-room-chandelier.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/marble-kitchen-island-2.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 47.994061,
+            "placeOnMap2": 37.804125,
             "topAds": true
         },
         {
@@ -75,7 +77,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/nesting-coffee-tables.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/lounge-chair.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 48.059291,
+            "placeOnMap2": 37.975443,
             "topAds": true
         },
         {
@@ -94,7 +97,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/round-coffee-tables-2.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2021/11/large-area-rug-3.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 48.062639,
+            "placeOnMap2": 37.975264,
             "topAds": true
         },
         {
@@ -112,7 +116,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 48.314787,
+            "placeOnMap2": 37.96796,
             "topAds": true
         },
         {
@@ -124,13 +129,14 @@
             "rooms": 5,
             "bathrooms": 2,
             "city": "Макеевка",
-            "homeAdress": "Петровского 190",
+            "homeAdress": "Целинная 3",
             "images": [
                 "http://cdn.home-designing.com/wp-content/uploads/2015/08/attic-living-room.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/08/white-washed-floors.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/08/plaid-sofa.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 47.999614,
+            "placeOnMap2": 38.036286,
             "topAds": true
         },
         {
@@ -148,7 +154,8 @@
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/small-apartment-ideas.jpg",
                 "http://cdn.home-designing.com/wp-content/uploads/2015/10/white-studio-kitchen.jpg"
             ],
-            "placeOnMap": 111,
+            "placeOnMap1": 48.310802,
+            "placeOnMap2": 38.002842,
             "topAds": true
         }
     ]
