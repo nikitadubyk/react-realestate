@@ -25,7 +25,11 @@ function App() {
                     path='/makeevka'
                     element={<ApartamentByCityPage />}
                 />
-                <Route exact path='/info' element={<ApartamentInfoPage />} />
+                <Route
+                    exact
+                    path='/apartament/:id'
+                    element={<ApartamentInfoPage />}
+                />
             </Routes>
         </BrowserRouter>
     );

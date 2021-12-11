@@ -52,7 +52,7 @@ const CityApartament = () => {
                     <Spinner />
                 ) : (
                     filteredApartaments.map(({ id, ...props }) => (
-                        <ApartamentItem key={id} {...props} />
+                        <ApartamentItem key={id} {...props} id={id} />
                     ))
                 )}
             </div>

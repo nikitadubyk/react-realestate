@@ -35,7 +35,7 @@ const PremiumAds = () => {
 
     const renderApartaments = arr =>
         arr.map(({ id, ...props }) => {
-            return <ApartamentItem key={id} {...props} />;
+            return <ApartamentItem key={id} {...props} id={id} />;
         });
 
     return (

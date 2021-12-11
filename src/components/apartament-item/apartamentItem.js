@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import styles from './ApartamentItem.module.scss';
 
 const ApartamentItem = ({
@@ -21,7 +22,9 @@ const ApartamentItem = ({
             <p className={styles.premium__adress}>
                 {city}, {homeAdress}
             </p>
-            <button className={styles.premium__button}>Подробней</button>
+            <Link to={`/apartament/${id}`} className={styles.premium__button}>
+                Подробней
+            </Link>
         </div>
     );
 };

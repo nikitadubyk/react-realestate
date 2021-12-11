@@ -26,6 +26,7 @@
         margin-top: 10px;
     }
     &__button {
+        padding: 5px 10px;
         width: 100px;
         height: 30px;
         color: #fff;
@@ -33,6 +34,7 @@
         border: none;
         border-radius: 20px;
         cursor: pointer;
+        text-decoration: none;
         transition: 0.3s background-color;
         &:hover {
             background-color: #5999f8;
