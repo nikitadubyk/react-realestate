@@ -15,6 +15,11 @@ const Header = () => {
             <Link exact to='/' className='header__title'>
                 Недвижимость
             </Link>
+            <div className='burger'>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
             <ul className='header__list'>
                 <Link
                     exact

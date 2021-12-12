@@ -3,7 +3,7 @@
         padding: 20px;
         border-radius: 20px;
         background-color: rgb(238, 238, 238);
-        width: 210px;
+        width: 250px;
         min-height: 270px;
         margin: 30px;
     }
@@ -55,5 +55,13 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .premium {
+        &__item {
+            margin: 15px;
+        }
     }
 }

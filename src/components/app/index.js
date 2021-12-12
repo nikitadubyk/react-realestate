@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from '../../pages/HomePage';
 import ApartamentByCityPage from '../../pages/ApartamentByCityPage';
 import ApartamentInfoPage from '../../pages/ApartamentInfoPage';
+import AboutUsPage from '../../pages/about-us/AboutUsPage';
 import './App.css';
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
                     path='/apartament/:id'
                     element={<ApartamentInfoPage />}
                 />
+                <Route exact path='/about-us' element={<AboutUsPage />} />
             </Routes>
         </Router>
     );

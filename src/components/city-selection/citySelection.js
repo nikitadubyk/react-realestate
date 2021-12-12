@@ -12,7 +12,7 @@ const CitySelection = () => {
     };
 
     return (
-        <div>
+        <div className='city'>
             <h1 className='city__title'>
                 Недвижимость по самым привликательным ценам
             </h1>
