@@ -1,0 +1,9 @@
+.filter {
+    display: flex;
+    width: 180px;
+    justify-content: space-between;
+    margin: 0 auto;
+    &__title {
+        font-size: 18px;
+    }
+}

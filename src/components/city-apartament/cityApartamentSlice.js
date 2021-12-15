@@ -1,19 +1,24 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-    cityName: '',
+    cityName: "",
     filteredApartaments: [],
+    filterByPrice: "default",
 };
 
 const cityApartamentSlice = createSlice({
-    name: 'city',
+    name: "city",
     initialState,
     reducers: {
         changeCityName: (state, action) => {
             state.cityName = action.payload;
         },
+        changeFilterByPrice: (state, action) => {
+            state.filterByPrice = action.payload;
+        },
     },
 });
 
-export const { changeCityName } = cityApartamentSlice.actions;
+export const { changeCityName, changeFilterByPrice } =
+    cityApartamentSlice.actions;
 export default cityApartamentSlice.reducer;
