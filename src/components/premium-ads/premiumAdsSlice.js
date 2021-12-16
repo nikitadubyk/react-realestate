@@ -1,27 +1,27 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
     apartaments: [],
     topAdsApartaments: [],
-    apartamentLoadingStatus: 'idle',
+    apartamentLoadingStatus: "idle",
 };
 
 const premiumAdsSlice = createSlice({
-    name: 'apartaments',
+    name: "apartaments",
     initialState,
     reducers: {
-        apartamentsFetching: state => {
-            state.apartamentLoadingStatus = 'loading';
+        apartamentsFetching: (state) => {
+            state.apartamentLoadingStatus = "loading";
         },
         apartamentsFetched: (state, action) => {
-            state.apartamentLoadingStatus = 'idle';
+            state.apartamentLoadingStatus = "idle";
             state.apartaments = action.payload;
             state.topAdsApartaments = action.payload.filter(
-                item => item.topAds
+                (item) => item.topAds
             );
         },
-        apartamentsFetchingError: state => {
-            state.apartamentLoadingStatus = 'error';
+        apartamentsFetchingError: (state) => {
+            state.apartamentLoadingStatus = "error";
         },
     },
 });
