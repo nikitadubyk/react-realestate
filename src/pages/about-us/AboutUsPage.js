@@ -1,5 +1,5 @@
 import Header from '../../components/header/Header';
-import { YMaps, Map, Placemark } from 'react-yandex-maps';
+import Map from '../../components/map/Map';
 import './AboutUsPage.scss';
 
 const AboutUsPage = () => {
@@ -43,18 +43,8 @@ const AboutUsPage = () => {
                     cum sint voluptatibus, accusantium autem. Itaque tempora
                     temporibus quia numquam.
                 </p>
-                <div>
-                    <YMaps>
-                        <Map
-                            className='about-us__map'
-                            defaultState={{
-                                center: [48.309573, 38.0025],
-                                zoom: 16,
-                            }}
-                        >
-                            <Placemark geometry={[48.309573, 38.0025]} />
-                        </Map>
-                    </YMaps>
+                <div className='about-us__map'>
+                    <Map placeOne={48.309573} placeSecond={38.0025} />
                 </div>
             </div>
         </>

@@ -46,7 +46,11 @@ const CityApartament = () => {
     }
 
     if (apartamentLoadingStatus === 'error') {
-        return <h2>Упс, произошла ошибка</h2>;
+        return (
+            <h2 style={{ textAlign: 'center', marginTop: '20px' }}>
+                Упс, произошла ошибка
+            </h2>
+        );
     }
 
     return (
