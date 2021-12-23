@@ -1,4 +1,4 @@
-# Hero Admin Panel
+# React Realestate
 
 ![](https://github.com/nikitadubyk/react-realestate/blob/main/readme-image.gif)
 
