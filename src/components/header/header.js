@@ -14,7 +14,6 @@ const Header = () => {
 
     const changeActive = () => {
         setIsActive(!isActive);
-        console.log(isActive);
     };
 
     return (
